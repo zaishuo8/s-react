@@ -1,3 +1,7 @@
+## 文档
+
+s-react 是想实现个乞丐版的 react, 文档记录下学习过程
+
 ## 虚拟树
 js 对象
 
@@ -331,6 +335,13 @@ ReactDOM.render(
     document.getElementById('root')
 );
 ```
+
+## TODO LIST
+- diff  可参考：https://github.com/livoras/blog/issues/13
+- 生命周期
+
+参考资料
+- https://github.com/hujiulong/blog/issues/4
 
 
 
